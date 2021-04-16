@@ -1,4 +1,4 @@
-# login-to-telegram
+# login-to-Telegram
 > A program that can login to your Telegram account.
 
 ## Quick Start
@@ -16,7 +16,7 @@ More information about Selenium at: [Selenium](https://www.selenium.dev/)
 ### Chrome Driver
 You can download chrome driver file from the project here: [ChromeDriver](./chromedriver)
 
-## Work with get-Github-visits
+## Work with login-to-Telegram
 
 ``` bash
 ~get-Github-visits: Enter your country name: //Here you have to enter your country name. for example: United State
