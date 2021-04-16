@@ -18,7 +18,7 @@ def click(xpath):
 # ---START--- #
 
 # Getting the necessary items
-country_name = input("Enter your acountry name: ")
+country_name = input("Enter your country name: ")
 phone_number = input("Enter your phone number(without your area code): ")
 
 # Openning browser
